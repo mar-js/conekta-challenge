@@ -2,7 +2,7 @@
 
 ## Tecnologías:
 
-1. Desarrollo:
+1. Desarrollo
 
 - HTML
 - CSS
@@ -12,18 +12,18 @@
 
 ---
 
-2. Linter:
+2. Linter
 
 - Biome
 
 ---
 
-3. Testing:
+3. Testing
 
 - Vitest
 
 ---
 
-4. Builder:
+4. Builder
 
 - Vite.
